@@ -1,0 +1,46 @@
+[27-Jul-2024 00:56:47 America/Sao_Paulo] PHP Warning:  Undefined array key "id_log" in /home2/zionxd68/public_html/barber/site/index.php on line 8
+[27-Jul-2024 00:56:47 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/index.php on line 157
+[27-Jul-2024 00:56:47 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/index.php on line 175
+[27-Jul-2024 00:56:47 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/index.php on line 180
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Undefined array key "id_log" in /home2/zionxd68/public_html/barber/site/perfil.php on line 7
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 57
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 75
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 80
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 187
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 190
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 192
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 194
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 196
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 225
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 231
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 236
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 242
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 248
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 253
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 259
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 265
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 275
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 296
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 304
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 313
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 321
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 329
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 338
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 346
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 354
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 363
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 372
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 381
+[27-Jul-2024 01:00:37 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/perfil.php on line 390
+[27-Jul-2024 13:26:08 America/Sao_Paulo] PHP Warning:  Undefined array key "id_log" in /home2/zionxd68/public_html/barber/site/index.php on line 8
+[27-Jul-2024 13:26:08 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/index.php on line 157
+[27-Jul-2024 13:26:08 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/index.php on line 175
+[27-Jul-2024 13:26:08 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/index.php on line 180
+[28-Jul-2024 14:26:41 America/Sao_Paulo] PHP Warning:  Undefined array key "id_log" in /home2/zionxd68/public_html/barber/site/index.php on line 8
+[28-Jul-2024 14:26:41 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/index.php on line 157
+[28-Jul-2024 14:26:41 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/index.php on line 175
+[28-Jul-2024 14:26:41 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/index.php on line 180
+[31-Jul-2024 13:15:24 America/Sao_Paulo] PHP Warning:  Undefined array key "id_log" in /home2/zionxd68/public_html/barber/site/index.php on line 8
+[31-Jul-2024 13:15:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/index.php on line 157
+[31-Jul-2024 13:15:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/index.php on line 175
+[31-Jul-2024 13:15:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home2/zionxd68/public_html/barber/site/index.php on line 180
